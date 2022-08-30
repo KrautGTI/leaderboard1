@@ -1,44 +1,44 @@
 [{
-   "rank":1,
-   "salesRep":"Garrett Riley",
-   "dk":1534,
-   "apptSet":2
+   "rank": 1,
+   "salesRep": "Garrett Riley",
+   "dk": 1534,
+   "apptSet": 2
 },
 {
-   "rank":2,
-   "salesRep":"Eamon McCarthy",
-   "dk":1346,
-   "apptSet":12
+   "rank": 2,
+   "salesRep": "Eamon McCarthy",
+   "dk": 1346,
+   "apptSet": 12
 },
 {
-   "rank":3,
-   "salesRep":"Chris Engelsman",
-   "dk":850,
-   "apptSet":19
+   "rank": 3,
+   "salesRep": "Chris Engelsman",
+   "dk": 850,
+   "apptSet": 19
 },
 {
-   "rank":4,
-   "salesRep":"Alex Graham",
-   "dk":779,
-   "apptSet":10
+   "rank": 4,
+   "salesRep": "Alex Graham",
+   "dk": 779,
+   "apptSet": 10
 },
 {
-   "rank":5,
-   "salesRep":"Dan Withrow",
-   "dk":770,
-   "apptSet":16
+   "rank": 5,
+   "salesRep": "Dan Withrow",
+   "dk": 770,
+   "apptSet": 16
 },
 {
-   "rank":6,
-   "salesRep":"Robert Merrill",
-   "dk":450,
-   "apptSet":1
+   "rank": 6,
+   "salesRep": "Robert Merrill",
+   "dk": 450,
+   "apptSet": 1
 },
 {
-   "rank":7,
-   "salesRep":"Zack Simpkins",
-   "dk":11,
-   "apptSet":0
+   "rank": 7,
+   "salesRep": "Zack Simpkins",
+   "dk": 11,
+   "apptSet": 0
 },
 {
    "rank":8,
